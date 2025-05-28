@@ -29,3 +29,5 @@ I take pride in building interfaces and applications that people love to use and
 💻 Portfolio in the works: [Wolfgang Web](https://www.wolfgangweb.net/)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaredschoen/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrock3&layout=compact&langs_count=10&theme=dark" alt="" />
