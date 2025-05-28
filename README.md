@@ -6,7 +6,8 @@ I take pride in building interfaces and applications that people love to use and
 <p>Skills & Technologies</p>
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
 🔭 I’m currently working on UXCel's [UX/UI Designer Path](https://app.uxcel.com/career-paths/ux-ui-designer). 
