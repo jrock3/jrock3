@@ -31,3 +31,5 @@ I take pride in building interfaces and applications that people love to use and
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaredschoen/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrock3&layout=compact&langs_count=10&theme=dark" alt="" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrock3&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
