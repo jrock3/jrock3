@@ -3,6 +3,8 @@ I am a frontend developer with over 10 years of experience specializing in high-
 
 I take pride in building interfaces and applications that people love to use and my passion for user experience inspires me to continue growing my skillset every day.
 
+🔭 I’m currently working on UXCel's [UX/UI Designer Path](https://www.wolfgangweb.net/)
+
 <!--
 **jrock3/jrock3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
