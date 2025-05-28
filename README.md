@@ -1,5 +1,7 @@
-## Hi there 👋
-<h1 align="center">Jared Schoen | React, UX, CRO Expert</h1>
+<h1>Frontend Developer | React, UX, CRO Expert</h1>
+<h2>Tulsa, OK</h2>
+<p>I am a frontend developer with over 10 years of experience specializing in high-performance UI and UX design, with a strong focus on conversion rate optimization (CRO). Currently, I leverage my skills in Javascript and Javascript frameworks to develop impactful A/B tests and build web applications.</p> 
+<p>I take pride in building interfaces and applications that people love to use and my passion for user experience inspires me to continue growing my skillset every day.</p>
 
 <!--
 **jrock3/jrock3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
