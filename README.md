@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h1 align="center">Jared Schoen | React, UX, CRO Expert</h1>
 
 <!--
 **jrock3/jrock3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
